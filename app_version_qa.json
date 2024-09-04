@@ -2,7 +2,7 @@
   "latest": {
     "label": "(QA)",
     "version": "1.0.5",
-    "optional": true,
+    "optional": false,
     "use_url": true,
     "url": "https://drive.google.com/drive/folders/1R4z_tu7ncQR6dlCGBVABU9I4-iixLU6R?usp=sharing"
   },
